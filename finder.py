@@ -3,7 +3,7 @@ import os
 import time
 
 address_to_find = input("Which keyword do you want to find ? ")
-start=time.time()#记录程序运行的时间
+start=time.time()
 i = 0
 
 while True:
